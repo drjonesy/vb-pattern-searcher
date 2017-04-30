@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\bin\Debug\COM35-660252086-a2.exe.config
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\bin\Debug\COM35-660252086-a2.exe
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\bin\Debug\COM35-660252086-a2.pdb
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\bin\Debug\COM35-660252086-a2.xml
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\obj\Debug\COM35-660252086-a2.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\obj\Debug\COM35_660252086_a2.Form1.resources
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\obj\Debug\COM35_660252086_a2.Resources.resources
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\obj\Debug\COM35-660252086-a2.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\obj\Debug\COM35-660252086-a2.exe
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\obj\Debug\COM35-660252086-a2.xml
+C:\Users\admin\Documents\Coleman\Bachelors\COM350-VisualBasic\projects\COM35-660252086-a2\COM35-660252086-a2\obj\Debug\COM35-660252086-a2.pdb
